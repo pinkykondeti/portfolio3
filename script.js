@@ -60,28 +60,7 @@ var typed = new Typed(".multiple-text", {
     );
   }
   
-  function blood() {
-    open("https://github.com/ShivaKrisl/BloodBankManagementSystem");
-  }
-  function movie() {
-    open("https://github.com/ShivaKrisl/Movie_Recommendation");
-  }
-  function movieLive() {
-    open("https://movie-recommendation-system-1950-2016.onrender.com/?");
-  }
-  function iris() {
-    open("https://github.com/ShivaKrisl/Iris_Classification");
-  }
-  function irisLive() {
-    open("https://shivakrishna.pythonanywhere.com/?");
-  }
-  function hand() {
-    open("https://github.com/ShivaKrisl/HandWrittenDigits_Classification");
-  }
   
-  function tastyPlate() {
-    open("https://github.com/ShivaKrisl/Jcomponent-Project");
-  }
   
   function resume() {
     open(
